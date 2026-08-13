@@ -1,0 +1,4 @@
+ENV_SHEETY_ENDPOINT=https://api.sheety.co/a4faf718b065dfc19c54c19d486bbefb/workout/sheet1
+ENV_SHEETY_USERNAME=bilalmirza100
+ENV_SHEETY_PASSWORD=MySecretPassword!Mwahahah
+ENV_SHEETY_TOKEN=hjsdf8i7sdfhjkh3jk4hjkbefkjshef
